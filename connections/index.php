@@ -5,7 +5,7 @@ $db_user = "root";
 $db_password = "";
 $db_name = "connection";
 
-//created a connection
+//create a connection
 
 $conn = mysqli_connect($db_host, $db_user, $db_password, $db_name);
 
