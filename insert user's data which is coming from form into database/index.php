@@ -1,6 +1,6 @@
 <!-- INSERT INTO `student` (`id`, `name`, `roll`, `adress`) VALUES (NULL, 'shayan', '101', 'karachi'), (NULL, 'shoaib', '102', 'lahore'); -->
 
-
+<!-- database name = connection || table name = student || coloums = id , name , roll , adress || -->
 <?php 
 
 $db_host = "localhost";
